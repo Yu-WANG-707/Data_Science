@@ -10,3 +10,7 @@ https://arxiv.org/pdf/1610.07940.pdf
 https://paperswithcode.com/task/image-retrieval/codeless?page=15
 <br>
 http://webia.lip6.fr/~cord/pdfs/news/Talki3sOct2011.pdf
+<br>
+https://web.cs.dal.ca/~anwar/ir/lecturenotes/l14.pdf
+<br>
+http://www.ijsce.org/wp-content/uploads/papers/v1i4/E0145081411.pdf
